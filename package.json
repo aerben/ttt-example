@@ -1,0 +1,22 @@
+{
+  "name": "ttt-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aerben/ttt-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aerben/ttt-example/issues"
+  },
+  "homepage": "https://github.com/aerben/ttt-example#readme",
+  "dependencies": {
+    "event-stream": "3.3.6"
+  }
+}

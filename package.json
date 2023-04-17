@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/aerben/ttt-example#readme",
   "dependencies": {
-    "event-stream": "4.0.0"
+    "event-stream": "4.0.1"
   }
 }
